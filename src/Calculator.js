@@ -121,7 +121,7 @@ class Calculator extends Component {
 	render() {
 		return (
 			<div className="container">
-			  <h1>+-*/% with React!</h1>
+			  <h1>+-*/% with React</h1>
 			  <div className="numbers">
 		  	<h3 className="display">{this.state.num1} {this.state.func} {this.state.num2}</h3>
 			  <div className="add">
